@@ -12,7 +12,7 @@ global $databaseConnection;
 $databaseConnection = mysqli_connect(
     'localhost',
     "root",
-    "",
+    null,
     "pokemon",
     "3306"
 );
