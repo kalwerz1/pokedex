@@ -130,3 +130,14 @@ footer {
 .text-center {
   text-align: center;
 }
+
+table {
+  border-collapse: collapse;
+  background-color: white;
+}
+th{
+background-color: white;
+}
+td{
+  background-color: white;
+}

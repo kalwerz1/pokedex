@@ -21,6 +21,7 @@
         <form id="search-bar" action="search_pokemon.php">
             <span class="input-group">
                 <input id="q" name="q" type="search" placeholder="Rechercher un pokémon"><button type="submit">🔎</button>
+                <br><a href="register.php" style="color : white;">Inscription</a>
             </span>
         </form>
     </header>

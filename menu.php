@@ -10,5 +10,6 @@
                 Pokémons par type
             </li>
         </a>
+        
     </ul>
 </aside>
